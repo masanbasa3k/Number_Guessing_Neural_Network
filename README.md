@@ -11,3 +11,9 @@
 - Matplotlib
 
 ![numbers](https://github.com/masanbasa3k/Number_Guessing_Neural_Network/assets/66223190/d83da412-3190-4a1d-8a6f-f7ce1315c76b)
+
+
+### Model loss and accuracy
+Model loss is 0.02%
+
+Model accuracy is %99
